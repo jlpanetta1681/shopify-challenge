@@ -1,5 +1,5 @@
 import React from "react";
-import { ReactDOM } from "react";
+
 
 
 class BandNameGenerator extends React.Component {
@@ -62,6 +62,6 @@ class BandNameGenerator extends React.Component {
       );
     }
   }
-  ReactDOM.render(<BandNameGenerator />, document.getElementById('root'))
+
   
   export default BandNameGenerator
