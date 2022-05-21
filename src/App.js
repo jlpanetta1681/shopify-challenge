@@ -1,5 +1,7 @@
 import React from 'react';
-import BandNameGenerator from '../src/components/BandNameGenerator.js';
+import MadLibGenerator from './components//MadLibGenerator';
+
+
 
 function App() {
 
@@ -7,7 +9,7 @@ return (
 
 <div>
 
-<BandNameGenerator />
+<MadLibGenerator />
 
 </div>
 
