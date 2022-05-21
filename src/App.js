@@ -1,5 +1,4 @@
 import React from 'react';
-
 import BandNameGenerator from '../src/components/BandNameGenerator.js';
 
 function App() {
@@ -15,5 +14,7 @@ return (
 );
 
 }
+
+
 
 export default App;
